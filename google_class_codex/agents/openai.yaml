@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Classroom Debug Editor"
+  short_description: "Edit Google Classroom through Chrome remote debugging."
+  default_prompt: "Help me inspect and update a Google Classroom material using a temporary Chrome remote debugging profile."
