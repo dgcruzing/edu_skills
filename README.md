@@ -17,6 +17,23 @@ Use it when:
 - you need to inspect or update a Classroom material title, description, or visible edit form;
 - you want a controlled workflow for testing, editing, saving, and verifying changes.
 
+See [google_class_codex](./google_class_codex/) for the skill files.
+
+### plugin-google-drive_codex
+
+A Codex skill package for working with Google Docs through the Google Drive / Google Docs connector in local Codex plugin sessions.
+
+Use it when:
+
+- you need to create, edit, format, import, or verify Google Docs;
+- you want Codex to preserve document structure, headings, tables, links, citations, and template style;
+- you are creating ACS/VET learner-facing Google Docs and want the established formatting profile;
+- you want to adapt the Google Docs workflow to your own organisation's branding.
+
+The package includes a GitHub-facing FAQ with instructions for adapting the skill to another organisation's brand.
+
+See [plugin-google-drive_codex](./plugin-google-drive_codex/) for the Google Docs skill and FAQ.
+
 ## Important Safety Note
 
 The Google Classroom workflow uses Chrome remote debugging. This is powerful because it exposes browser control on the local machine.
